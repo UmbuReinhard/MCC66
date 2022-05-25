@@ -66,8 +66,8 @@ class Menu
 
         switch (Hasil)
         {
-            case 1:
-                    //Read
+            case 1: 
+                    //Read hahaha
                     SqlDataReader dataReader = allKaryawan.GetAll();
                     Class1.Print();
                     Class1.PrintRow("ID", "Nama", "Jenis Kelamin");
