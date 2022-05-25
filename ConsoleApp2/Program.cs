@@ -64,6 +64,10 @@ class Menu
 
         KaryawanModel param = new KaryawanModel();
 
+        //isi variabel querty
+        Qwerty = 0;
+
+
         switch (Hasil)
         {
             case 1: 
